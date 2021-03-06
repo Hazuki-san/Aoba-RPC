@@ -5,7 +5,7 @@
 Share your videos and preferences on YouTube seemlessly with your friends on Discord thanks to this Discord RPC addon.
 
 ### Download & Setup
-- **Discord.JS RPC (Requires Node.JS):** [Download from GitHub](https://github.com/Jinzulen/Mangadex-RPC/blob/master/ext/tools/DPS.jar)
+- **Discord.JS RPC (Requires Node.JS):** [Download from GitHub](https://github.com/Hazuki-san/Discord-RPC)
 - **Tampermonkey:** [Install Tampermonkey from Chrome Webstore](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Install Tampermonkey from Firefox Add-ons store.](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 - **Aoba-RPC:** [Download from GitHub](https://github.com/Jinzulen/Mangadex-RPC/blob/master/src/Aoba-RPC.js)
 
