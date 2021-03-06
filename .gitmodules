@@ -1,6 +1,3 @@
-[submodule "Discord-RPC"]
+[submodule "ext/Discord-RPC"]
 	path = ext/Discord-RPC
-	url = https://github.com/Hazuki-san/Discord-RPC.git
-[submodule "etx/Discord-RPC"]
-	path = etx/Discord-RPC
 	url = https://github.com/Hazuki-san/Discord-RPC.git
