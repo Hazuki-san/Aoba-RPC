@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Jinzulen/Aoba-RPC/master/ext/icons/youtube-128.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Hazuki-san/Aoba-RPC/master/ext/icons/youtube-128.png">
 
 # Aoba-RPC
 
